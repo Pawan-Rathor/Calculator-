@@ -1,4 +1,4 @@
-# Calculator-
+# Calculator
 
 Calculator - using Java AWT (code in repository).
 
